@@ -1,0 +1,16 @@
+.carousel-item{
+  padding-bottom: 30px;
+}
+.buy-now-btn{
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-weight: 700;
+}
+.carousel-indicators li{
+  background-color: orange;
+  padding: 3px 4px;
+  border-radius: 12px;
+}
