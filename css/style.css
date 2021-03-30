@@ -1,3 +1,13 @@
+.container{
+  margin-bottom: 80px;
+}
+.nav-item{
+  margin-left: 30px;
+}
+.nav-link{
+  font-size: 14px;
+  font-weight: 700;
+}
 .carousel-item{
   padding-bottom: 30px;
 }
