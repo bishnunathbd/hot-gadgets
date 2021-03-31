@@ -10,5 +10,11 @@
   font-weight: 700;
 }
 
+.box{
+  width: 100px;
+  height: 6px;
+  /* background-color: orange; */
+  background-image: linear-gradient(to right, lightsalmon 0%, tomato 100% );
+  border-radius: 5px;
+}
 
-/* smartphone */
