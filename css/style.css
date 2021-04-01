@@ -1,9 +1,13 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
-.container{
+.slide-area{
+  margin-top: 150px;
+}
+.slide-area, .smartphone-area, .laptop-area, .category-area{
   margin-bottom: 100px;
 }
+
 .buy-now-btn{
   background-color: black;
   color: white;
