@@ -1,3 +1,6 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
 .container{
   margin-bottom: 100px;
 }
@@ -8,6 +11,19 @@
   border-radius: 10px;
   padding: 10px 20px;
   font-weight: 700;
+  cursor: pointer;
+}
+/* carousel */
+.carousel-indicators li{
+  background-color: grey;
+  width: 15px;
+  height: 10px;
+  border: none;
+  border-radius: 15px;
+}
+.carousel-indicators li.active{
+  width: 45px;
+  background-image: linear-gradient(to right, darkorange, orange);
 }
 
 .box{
@@ -17,4 +33,3 @@
   background-image: linear-gradient(to right, lightsalmon 0%, tomato 100% );
   border-radius: 5px;
 }
-
