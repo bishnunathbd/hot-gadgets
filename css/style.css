@@ -30,10 +30,19 @@ body{
   background-image: linear-gradient(to right, darkorange, orange);
 }
 
-.box{
+.underline{
   width: 100px;
   height: 6px;
   /* background-color: orange; */
   background-image: linear-gradient(to right, lightsalmon 0%, tomato 100% );
   border-radius: 5px;
+  margin: 0 auto 80px;
+}
+
+.category-box{
+  /* border: 1px solid tomato; */
+  width: 250px;
+  height: 250px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 30px gray;
 }
